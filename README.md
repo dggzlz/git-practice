@@ -8,5 +8,9 @@ When resolving merge conflicts, make sure to keep all changes so you don't delet
 Let there be conflicts!
 
 ## Index of `userfiles` directory
+<<<<<<< HEAD
 
 [daraakitoyemru](userfiles/daraakitoyemru.md)
+=======
+- [dggzlz](dggzlz.md)
+>>>>>>> b0edc44 (testing the new branch)
